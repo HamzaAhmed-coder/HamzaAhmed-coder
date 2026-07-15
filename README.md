@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Hamza%20Ahmed&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSBIT%20Student%20%7C%20Frontend%20Developer%20%7C%20Cyber%20Security%20%26%20Cloud%20Enthusiast&descAlignY=55&descSize=18" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Hamza%20Ahmed&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSBIT%20Student%20%7C%20Frontend%20Developer%20%7C%20Cyber%20Security%20%26%20Cloud%20Enthusiast&descAlignY=55&descSize=18" alt="header banner"/>
 
 <a href="https://github.com/HamzaAhmed-coder">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=BSBIT+Student;C%2B%2B+%26+OOP+Developer;Frontend+Developer;Cyber+Security+%26+Cloud+Enthusiast;IT+Enthusiast" alt="Typing SVG" />
@@ -17,27 +17,20 @@
 
 ## 🧾 Who I Am
 
-```ts
-const hamza = {
-  title: "BSBIT Student",
-  stack: ["C++", "OOP", "HTML", "MySQL", "phpMyAdmin", "Supabase"],
-  aiTools: ["ChatGPT", "Claude", "Grok", "Groq", "Gemini", "Perplexity", "Gamma"],
-  launchedProjects: [
-    "Auto-Email-Responder",
-    "Vehicle-Management-System",
-    "Calculator-Using-Functions",
-  ],
-  interests: ["Cyber Security", "Cloud Computing", "IT"],
-  certifications: ["AWS", "HP LIFE", "CISCO", "Cloud Computing"],
-  status: "Open to work 🟢",
-  openTo: [
-    "Internships",
-    "Junior Developer roles",
-    "Collab on OOP / C++ projects",
-    "Frontend projects",
-  ],
-} as const;
-```
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 **Title** | BSBIT Student |
+| 🧰 **Stack** | C++ &nbsp;•&nbsp; OOP &nbsp;•&nbsp; HTML &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; phpMyAdmin &nbsp;•&nbsp; Supabase |
+| 🤖 **AI Tools** | ChatGPT &nbsp;•&nbsp; Claude &nbsp;•&nbsp; Grok &nbsp;•&nbsp; Groq &nbsp;•&nbsp; Gemini &nbsp;•&nbsp; Perplexity &nbsp;•&nbsp; Gamma |
+| 🚀 **Launched Projects** | Auto-Email-Responder &nbsp;•&nbsp; Vehicle-Management-System &nbsp;•&nbsp; Calculator-Using-Functions |
+| 🎯 **Interests** | Cyber Security &nbsp;•&nbsp; Cloud Computing &nbsp;•&nbsp; IT |
+| 📜 **Certifications** | AWS &nbsp;•&nbsp; HP LIFE &nbsp;•&nbsp; CISCO &nbsp;•&nbsp; Cloud Computing |
+| 🟢 **Status** | Open to work |
+| 🤝 **Open To** | Internships &nbsp;•&nbsp; Junior Developer roles &nbsp;•&nbsp; Collab on OOP / C++ projects &nbsp;•&nbsp; Frontend projects |
+
+</div>
 
 <br/>
 
@@ -46,9 +39,9 @@ const hamza = {
 ### 📧 Auto Email Responder
 Auto email responder built with n8n, Groq, and Gmail Auth (JSON).
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaAhmed-coder&repo=Auto-Email-Responder&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Auto Email Responder pin"/>
-</div>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/Gmail%20Auth-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Auth"/>
 
 | Layer | Technology |
 |---|---|
@@ -63,9 +56,8 @@ Auto email responder built with n8n, Groq, and Gmail Auth (JSON).
 ### 🚗 Vehicle Management System
 Vehicle management system built using Object-Oriented Programming (OOP).
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaAhmed-coder&repo=Vehicle-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Vehicle Management System pin"/>
-</div>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/OOP-7dd3fc?style=flat-square" alt="OOP"/>
 
 | Layer | Technology |
 |---|---|
@@ -79,9 +71,8 @@ Vehicle management system built using Object-Oriented Programming (OOP).
 ### 🧮 Calculator Using Functions
 A 12-function calculator built in C++.
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaAhmed-coder&repo=Calculator-Using-Functions&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Calculator Using Functions pin"/>
-</div>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Functions-7dd3fc?style=flat-square" alt="Functions"/>
 
 | Layer | Technology |
 |---|---|
@@ -138,8 +129,8 @@ A 12-function calculator built in C++.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmed-coder&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmed-coder&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmed-coder&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&cache_seconds=86400" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmed-coder&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&cache_seconds=86400" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=HamzaAhmed-coder&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
 
@@ -174,7 +165,7 @@ A 12-function calculator built in C++.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" alt="footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" alt="footer banner"/>
 
 </div>
 
