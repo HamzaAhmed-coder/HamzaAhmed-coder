@@ -84,7 +84,7 @@ A 12-function calculator built in C++.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmed-coder&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&cache_seconds=86400" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=HamzaAhmed-coder&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" alt="GitHub Stats"/>
 
 <br/>
 
@@ -92,7 +92,7 @@ A 12-function calculator built in C++.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmed-coder&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&cache_seconds=86400" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HamzaAhmed-coder&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Top Languages"/>
 
 </div>
 
